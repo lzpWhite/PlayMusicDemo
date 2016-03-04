@@ -9,7 +9,7 @@
 #import "ViewController.h"
 #import "LZPDownPlayer.h"
 
-#define urlstr @"http://2010.5282.cc/20150420/7.mp3"
+#define urlstr @"地址需要找"
 
 @interface ViewController () <DownPlayerDelegate> {
     BOOL downloadStatus;
