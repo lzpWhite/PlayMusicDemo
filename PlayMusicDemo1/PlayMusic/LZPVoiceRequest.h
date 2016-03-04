@@ -1,9 +1,5 @@
 //
 //  VoiceRequest.h
-//  Ershoufang
-//
-//  Created by lingyohunl on 15/7/16.
-//  Copyright (c) 2015年 Fangdd. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>

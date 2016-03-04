@@ -1,9 +1,5 @@
 //
 //  VoiceRequest.m
-//  Ershoufang
-//
-//  Created by lingyohunl on 15/7/16.
-//  Copyright (c) 2015年 Fangdd. All rights reserved.
 //
 
 #import "LZPVoiceRequest.h"
@@ -112,7 +108,7 @@
 
 -(NSString *)getVoicePath
 {
-    NSString *fullNamespace = @"FDDvoice";
+    NSString *fullNamespace = @"voice";
     
     // Init the disk cache
     NSArray *paths = NSSearchPathForDirectoriesInDomains(NSCachesDirectory, NSUserDomainMask, YES);
